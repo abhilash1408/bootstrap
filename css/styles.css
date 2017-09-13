@@ -30,6 +30,7 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
@@ -37,4 +38,14 @@ body{
 
 .navbar-inverse {
      background-color: #512DA8;
+}
+.rad{
+    margin-left:10px;
+    margin-right:10px;
+}
+.rad2{
+    margin-right:2px
+}
+.tab-pane{
+    margin-top:25px;
 }
